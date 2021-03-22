@@ -1,0 +1,21 @@
+# dependencies
+/to-do-items/node_modules
+/to-do-items/.pnp
+/to-do-items/.pnp.js
+
+# testing
+/to-do-items/coverage
+
+# production
+/to-do-items/build
+
+# misc
+/to-do-items/.DS_Store
+/to-do-items/.env.local
+/to-do-items/.env.development.local
+/to-do-items/.env.test.local
+/to-do-items/.env.production.local
+
+/to-do-items/npm-debug.log*
+/to-do-items/yarn-debug.log*
+/to-do-items/yarn-error.log*
