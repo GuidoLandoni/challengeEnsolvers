@@ -19,3 +19,7 @@
 /to-do-items/npm-debug.log*
 /to-do-items/yarn-debug.log*
 /to-do-items/yarn-error.log*
+
+#api
+
+/api_REST/__pycache__
